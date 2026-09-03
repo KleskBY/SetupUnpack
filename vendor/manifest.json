@@ -1,0 +1,14 @@
+{
+  "versions": {
+    "7zip": "25.01",
+    "innoextract": "1.9",
+    "unshield": "1.6.2"
+  },
+  "files": {
+    "7zip/7z.dll": "5bd20fb38499d95c39594f41d4781b6181b3304b7f1f4d06b0182f514e7eaa74",
+    "7zip/7z.exe": "4cd7d776c686427226a151789d2d61f0b2ed2c392148cc4e69c0238362fafecf",
+    "innoextract/innoextract.exe": "946bd06d8b3722a791fea4d84f496139eef6faef61640924cb72f5f1998a68e1",
+    "unshield/unshield.exe": "af60bc214948bc0c9aa5b99b978392cc718bbc22be4442ea342497542173af09",
+    "unshield/zlib1.dll": "fd6fdad547585e95dbe33fac962e17cb401b783ebf6eac5803e9f445678d7dfa"
+  }
+}

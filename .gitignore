@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+work/
+portable/
+release/
+extracted/
+*.spec
+build/
+dist/
+
+# Local agent instructions
+AGENTS.md
+CLAUDE.md
+.claude/

@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "tool_checksums": true,
+  "gui_preview": true,
+  "gui_extract": true,
+  "gui_controls_reset": true,
+  "source_unchanged": true,
+  "input_executed": false
+}

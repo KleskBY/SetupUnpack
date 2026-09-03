@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "setupunpack"
+version = "1.0.0"
+description = "Windows installer and disc-image extraction workbench"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+
+[project.scripts]
+setupunpack = "setupunpack.__main__:main"
+
+[tool.setuptools]
+packages = ["setupunpack"]
+
+# Use an editable source checkout (pip install -e .) or the portable build.
+# Bundled helper tools stay next to the source package, not in a wheel.
